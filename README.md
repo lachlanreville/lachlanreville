@@ -1,4 +1,12 @@
-### Hi there 👋
+# Well, Hello there!
+My name is Lachlan and welcome to my Github.
+
+# Projects
+
+# Technologies & Tools
+
+
+# Socials
 
 <!--
 **revillla/revillla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

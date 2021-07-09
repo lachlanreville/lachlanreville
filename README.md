@@ -12,7 +12,7 @@ My name is Lachlan and welcome to my Github.
 ## Frameworks
 ![](https://img.shields.io/badge/Framework-ReactJS-blue?logo=react&style=for-the-badge)  ![](https://img.shields.io/badge/Framework-Express-blue?logo=express&style=for-the-badge)  ![](https://img.shields.io/badge/Framework-NextJS-blue?logo=next.js&style=for-the-badge)
 ## Tools
-![](https://img.shields.io/badge/Tools-Visual_Studio_Code-blue?logo=visualstudiocode&style=for-the-badge)
+![](https://img.shields.io/badge/Tools-Visual_Studio_Code-blue?logo=visualstudiocode&style=for-the-badge)  ![](https://img.shields.io/badge/Tools-GitHub-blue?logo=github&style=for-the-badge)
 
 # Socials
 

@@ -7,7 +7,7 @@ My name is Lachlan and welcome to my Github.
 
 ## Languages
 
-![](https://img.shields.io/badge/Language-Javascript-blue?logo=javascript&style=for-the-badge)  ![](https://img.shields.io/badge/Language-NodeJS-blue?logo=node.js&style=for-the-badge)  ![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=for-the-badge)  ![](https://img.shields.io/badge/Language-PHP-blue?logo=php&style=for-the-badge)
+![](https://img.shields.io/badge/Language-Javascript-blue?logo=javascript&style=for-the-badge)  ![](https://img.shields.io/badge/Language-NodeJS-blue?logo=node.js&style=for-the-badge)  ![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=for-the-badge)  ![](https://img.shields.io/badge/Language-PHP-blue?logo=php&style=for-the-badge)  ![](https://img.shields.io/badge/Markup-HTML-blue?logo=html5&style=for-the-badge)  ![](https://img.shields.io/badge/Styles-CSS-blue?logo=css3&style=for-the-badge)  ![](https://img.shields.io/badge/Query_Language-MySQL-blue?logo=mysql&style=for-the-badge)
 
 ## Frameworks
 ![](https://img.shields.io/badge/Framework-ReactJS-blue?logo=react&style=for-the-badge)

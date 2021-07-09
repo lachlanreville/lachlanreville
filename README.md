@@ -4,7 +4,7 @@ My name is Lachlan and welcome to my Github.
 # Projects
 
 # Technologies & Tools
-![](https://img.shields.io/badge/Language-Javascript-blue?logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Language-Javascript-blue?logo=javascript&style=for-the-badge&logo=appveyor)
 
 
 # Socials

@@ -4,7 +4,7 @@ My name is Lachlan and welcome to my Github.
 # Projects
 
 # Technologies & Tools
-![](https://img.shields.io/badge/Language-Javascript-blue?logo=javascript&style=for-the-badge)  ![](https://img.shields.io/badge/Language-NodeJS-blue?logo=node.js&style=for-the-badge)  ![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=for-the-badge)
+![](https://img.shields.io/badge/Language-Javascript-blue?logo=javascript&style=for-the-badge)  ![](https://img.shields.io/badge/Language-NodeJS-blue?logo=node.js&style=for-the-badge)  ![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=for-the-badge)  ![](https://img.shields.io/badge/Framework-ReactJS-blue?logo=react&style=for-the-badge)
 
 
 

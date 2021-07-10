@@ -2,6 +2,7 @@
 My name is Lachlan and welcome to my Github.
 
 # Projects
+My most up to date projects can be found in the pinned section below!
 
 # Technologies & Tools
 

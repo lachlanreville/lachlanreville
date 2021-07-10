@@ -16,7 +16,7 @@ My most up to date projects can be found in the pinned section below!
 ![](https://img.shields.io/badge/Tools-Visual_Studio_Code-blue?logo=visualstudiocode&style=for-the-badge)  ![](https://img.shields.io/badge/Tools-GitHub-blue?logo=github&style=for-the-badge)
 
 # Socials
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![linkedin][3.2]][3].
 
 <!-- Icons -->
 

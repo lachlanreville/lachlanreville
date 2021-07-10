@@ -16,12 +16,17 @@ My most up to date projects can be found in the pinned section below!
 ![](https://img.shields.io/badge/Tools-Visual_Studio_Code-blue?logo=visualstudiocode&style=for-the-badge)  ![](https://img.shields.io/badge/Tools-GitHub-blue?logo=github&style=for-the-badge)
 
 # Socials
-You can find me on [![LinkedIn][linkedin]][https://www.linkedin.com/in/lachlan-reville-75a2a5145/].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
+<!-- Icons -->
 
-<!-- Socials Icons -->
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-[linkedin]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
 <!--
 **revillla/revillla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

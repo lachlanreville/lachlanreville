@@ -21,7 +21,7 @@ You can find me on [![LinkedIn][linkedin]][https://www.linkedin.com/in/lachlan-r
 
 <!-- Socials Icons -->
 
-[linkedin]: https://raw.githubusercontent.com/lachlanreville/lachlanreville/master/linkedin-icon.png
+[linkedin]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 <!--
 **revillla/revillla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

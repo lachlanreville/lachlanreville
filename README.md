@@ -8,12 +8,12 @@ My most up to date projects can be found in the pinned section below!
 
 ## Languages
 
-![](https://img.shields.io/badge/Language-Javascript-053f5e?logo=javascript&style=for-the-badge&labelColor=022c43)  ![](https://img.shields.io/badge/Language-NodeJS-blue?logo=node.js&style=flat-square)  ![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=flat-square)  ![](https://img.shields.io/badge/Language-PHP-blue?logo=php&style=flat-square)  ![](https://img.shields.io/badge/Markup-HTML-blue?logo=html5&style=flat-square)  ![](https://img.shields.io/badge/Styles-CSS-blue?logo=css3&style=flat-square)  ![](https://img.shields.io/badge/Query_Language-MySQL-blue?logo=mysql&style=flat-square)
+![](https://img.shields.io/badge/Language-Javascript-053f5e?logo=javascript&style=for-the-badge&labelColor=022c43&labelColor=022c43)  ![](https://img.shields.io/badge/Language-NodeJS-053f5e?logo=node.js&style=for-the-badge&labelColor=022c43)  ![](https://img.shields.io/badge/Language-Python-053f5e?logo=python&style=for-the-badge&labelColor=022c43)  ![](https://img.shields.io/badge/Language-PHP-053f5e?logo=php&style=for-the-badge&labelColor=022c43)  ![](https://img.shields.io/badge/Markup-HTML-053f5e?logo=html5&style=for-the-badge&labelColor=022c43)  ![](https://img.shields.io/badge/Styles-CSS-053f5e?logo=css3&style=for-the-badge&labelColor=022c43)  ![](https://img.shields.io/badge/Query_Language-MySQL-053f5e?logo=mysql&style=for-the-badge&labelColor=022c43)
 
 ## Frameworks
-![](https://img.shields.io/badge/Framework-ReactJS-blue?logo=react&style=for-the-badge)  ![](https://img.shields.io/badge/Framework-Express-blue?logo=express&style=for-the-badge)  ![](https://img.shields.io/badge/Framework-NextJS-blue?logo=next.js&style=for-the-badge)
+![](https://img.shields.io/badge/Framework-ReactJS-053f5e?logo=react&style=for-the-badge&labelColor=022c43)  ![](https://img.shields.io/badge/Framework-Express-053f5e?logo=express&style=for-the-badge&labelColor=022c43)  ![](https://img.shields.io/badge/Framework-NextJS-053f5e?logo=next.js&style=for-the-badge&labelColor=022c43)
 ## Tools
-![](https://img.shields.io/badge/Tools-Visual_Studio_Code-blue?logo=visualstudiocode&style=for-the-badge)  ![](https://img.shields.io/badge/Tools-GitHub-blue?logo=github&style=for-the-badge)
+![](https://img.shields.io/badge/Tools-Visual_Studio_Code-053f5e?logo=visualstudiocode&style=for-the-badge&labelColor=022c43)  ![](https://img.shields.io/badge/Tools-GitHub-053f5e?logo=github&style=for-the-badge&labelColor=022c43)
 
 # Socials
 

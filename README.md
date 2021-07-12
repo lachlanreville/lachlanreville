@@ -8,7 +8,7 @@ My most up to date projects can be found in the pinned section below!
 
 ## Languages
 
-![](https://img.shields.io/badge/Language-Javascript-736e8a?logo=javascript&style=flat-square&labelColor=e6a639)  ![](https://img.shields.io/badge/Language-NodeJS-blue?logo=node.js&style=flat-square)  ![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=flat-square)  ![](https://img.shields.io/badge/Language-PHP-blue?logo=php&style=flat-square)  ![](https://img.shields.io/badge/Markup-HTML-blue?logo=html5&style=flat-square)  ![](https://img.shields.io/badge/Styles-CSS-blue?logo=css3&style=flat-square)  ![](https://img.shields.io/badge/Query_Language-MySQL-blue?logo=mysql&style=flat-square)
+![](https://img.shields.io/badge/Language-Javascript-022c43?logo=javascript&style=flat-square&labelColor=053f5e)  ![](https://img.shields.io/badge/Language-NodeJS-blue?logo=node.js&style=flat-square)  ![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=flat-square)  ![](https://img.shields.io/badge/Language-PHP-blue?logo=php&style=flat-square)  ![](https://img.shields.io/badge/Markup-HTML-blue?logo=html5&style=flat-square)  ![](https://img.shields.io/badge/Styles-CSS-blue?logo=css3&style=flat-square)  ![](https://img.shields.io/badge/Query_Language-MySQL-blue?logo=mysql&style=flat-square)
 
 ## Frameworks
 ![](https://img.shields.io/badge/Framework-ReactJS-blue?logo=react&style=for-the-badge)  ![](https://img.shields.io/badge/Framework-Express-blue?logo=express&style=for-the-badge)  ![](https://img.shields.io/badge/Framework-NextJS-blue?logo=next.js&style=for-the-badge)
